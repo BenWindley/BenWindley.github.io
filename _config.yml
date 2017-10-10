@@ -2,7 +2,7 @@
 
 # Site settings
 title: Ben Windley
-description: "Games development from an elder's persepective."
+description: "Learning, Drawing, Programming"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://BenWindley.github.io/"
@@ -28,7 +28,7 @@ colors:  #in hex code if not noted else
 # Making projects separate from posts
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:title/
   questions:
     output: false
