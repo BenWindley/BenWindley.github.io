@@ -51,7 +51,7 @@ members:
   - name: Ben Windley
     position: Student
     text: I'm learning creative programming! 
-    img: profile_1.jpg
+    img: watermelon.png
     social:
       - title: envelope #use for email address
         url: mailto:ben.windley@yahoo.co.uk
