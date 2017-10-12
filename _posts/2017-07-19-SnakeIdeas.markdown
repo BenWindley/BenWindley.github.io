@@ -5,7 +5,7 @@ date:   2017-10-10
 author: Ben Windley
 categories: 
 - Blog
-img: caves-ofqud-mobil.jpg
+img: Caves-Of-Qud-Mobile.jpg
 ---
 
 <b>Snake Ideas</b>  <!--more-->
