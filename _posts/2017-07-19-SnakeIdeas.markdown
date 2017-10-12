@@ -5,6 +5,7 @@ date:   2017-10-10
 author: Ben Windley
 categories: 
 - Blog
+thumb: Caves-Of-Qud-Mobile.jpg
 img: Caves-Of-Qud-Mobile.jpg
 ---
 
