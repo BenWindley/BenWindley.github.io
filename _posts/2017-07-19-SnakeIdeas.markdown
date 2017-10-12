@@ -5,7 +5,6 @@ date:   2017-10-10
 author: Ben Windley
 categories: 
 - Blog
-- Low-Level Programming
 thumb: Caves-of-Qud-Mobile.jpg
 img: Caves-of-Qud-Mobile.jpg
 ---
