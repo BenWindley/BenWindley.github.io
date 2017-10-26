@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Smooth Movement on a Grid System"
-date:   2017-10-24
-author: Ben Windley
+title:          "Smooth Movement on a Grid System"
+date:           2017-10-24
+author:         Ben Windley
+
 categories: 
-- Blog
--Low Level Programming
-thumb: snake-1200x627.png
+                - Blog
+                - Low Level Programming
+                
+thumb:          snake-1200x627.png
 ---
 
 <b>Smooth Movement on a Grid System</b>  <!--more-->
