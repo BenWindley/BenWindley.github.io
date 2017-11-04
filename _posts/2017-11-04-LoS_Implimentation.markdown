@@ -11,7 +11,7 @@ thumb: Caves-of-Qud-Mobile.jpg
 ---
 
 #### Planning
-My initial thought was to draw a line between each grid space and the head position of the snake, therefore <b>Bresenham's algorithm<\b> of the generation of pixel-based lines helped this.
+My initial thought was to draw a line between each grid space and the head position of the snake, therefore <b>Bresenham's algorithm</b> of the generation of pixel-based lines helped this.
 
 #### Bresenham's Algorithm
 ```C++
