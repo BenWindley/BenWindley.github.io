@@ -30,7 +30,7 @@ void plotLine(int x0, int y0, int x1, int y1)
    }
 }
 ```
-Modifying the algorithm allows the ability to check <b>point by point<\b> if a grid space is occupied.
+Modifying the algorithm allows the ability to check <b>point by point</b> if a grid space is occupied.
 
 #### Process
 By starting with the default of all spaces not being visible you can draw lines from the snake to check if any opaque materials are in the way, as each point is checked, each can be marked as visible. Since a visible tile will definitely be visible by the snake those don't need to be checked twice.
