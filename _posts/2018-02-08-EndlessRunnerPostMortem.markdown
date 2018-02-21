@@ -13,6 +13,7 @@ thumb: Endless Runner(2).PNG
 #### What went well?
 - Due to the hindsight into ASGE's workings it was far easier to create a framework.
 - The scene manager that I created early on, with the focus of scalability, set the modular foundations for the Game, Menu and Name Input Scenes.
+- My implimentation of structs for highscores with names attached.
  
 #### What went wrong?
 - Due to the reinstantiations of obstacles clashing with the render system (which could've been easily avoided with an obstacle pool) this meant the obstacles had to come in waves instead of a steady stream of obstacles that was intended.
