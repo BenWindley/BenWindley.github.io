@@ -6,8 +6,8 @@ author: Ben Windley
 categories:
   - Blog
   - Low-Level Programming
-img: birdman.PNG
-thumb: birdman.PNG
+img: birdman.png
+thumb: birdman.png
 ---
 
 #### What went well?
