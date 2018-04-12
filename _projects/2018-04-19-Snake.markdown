@@ -1,11 +1,12 @@
 ---
 layout: project
 title:  "Snake"
-date:   2018-04-19
+date:   2017-11-08
 author: Ben Windley
 categories:
 - project
 thumb: thumb02.jpg
+img: portfolio_05.jpg
 carousel:
 - snake_1.PNG
 - snake_2.PNG
@@ -15,7 +16,6 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 published: true
-
 ---
 
 ####YOUR PROJECT NAME
