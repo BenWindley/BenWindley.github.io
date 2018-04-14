@@ -4,7 +4,7 @@ title:  "Snake"
 date:   2017-11-08
 author: Ben Windley
 categories:
-- project
+- Project
 thumb: thumb02.jpg
 img: portfolio_05.jpg
 carousel:
@@ -12,14 +12,24 @@ carousel:
 - snake_2.PNG
 - snake_3.PNG
 - snake_4.PNG
-tagged: Flat, UI, Development
-client: Wonder Corp.
-website: http://blacktie.co
+tagged: Low Level Programming, Snake
+client: Low Level Programming
 published: true
 ---
 
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+### Initial Concept
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Being presented with the theme "Snake" and the the task of iterating on the concept. 
+Several main mechanics and themes of snake were given to us:
+- Perpetual
+- Risk
+- Reward
+- Claustrophobia
+
+#### Iteration
+
+My planned iteration was to draw off of games such as Rogue and Caves of Qud in their line of sight, therefore after implimenting the basic snake game I used bresenham's line algorithm to exemplify the feeling of claustrophobia, it also prolongs gameplay as the player must hunt down the apples to grow longer. An additional mechanic I added to counter the problem of collecting apples on the edge of blocks and the borders of the map a safety feature can be turned on/off, this feature gives the player a number of ticks upon hitting a wall or a part of their body before losing.
+
+#### Gameplay
+
+The game has a functioning menu with options that changes the mechanics' severity, these options directly influence the highscore which allows the player to creater their own learning curve that can reflect ability though the highscore at the end.
