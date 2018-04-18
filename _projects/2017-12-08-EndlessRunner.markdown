@@ -9,8 +9,8 @@ thumb: thumb02.jpg
 img: portfolio_05.jpg
 carousel:
 - endless_runner.PNG
-- endless_runner1.PNG
-- endless_runner2.PNG
+- endless_runner_1.PNG
+- endless_runner_2.PNG
 tagged: Low Level Programming, Endless Runner
 engine: ASGE
 published: true
