@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planning for an X-Com Themed Game"
-date: 2018-04-05
+date: 2018-04-01
 author: Ben Windley
 categories:
 - Blog

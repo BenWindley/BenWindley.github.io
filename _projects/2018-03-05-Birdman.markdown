@@ -1,0 +1,39 @@
+---
+layout: project
+title:  "Birdman"
+date:   2018-03-05
+author: Ben Windley
+categories:
+- Project
+thumb: thumb02.jpg
+img: portfolio_05.jpg
+carousel:
+- birdman.PNG
+- birdman_1.PNG
+- birdman_2.PNG
+- birdman_3.PNG
+- birdman_4.PNG
+tagged: Low Level Programming, Birdman
+engine: ASGE
+published: true
+---
+
+### Initial Concept
+
+After watching the movie Birdman in class and having the holiday to think of a game concept to present to the class before developing it with a team, the film gave a strong narrative which could translate well into a story-based game. 
+
+The concept originated from the themes such as Undertale (with their credits scene and narrative focus) and the Reigns.
+
+### Iteration
+
+My birdman game iterated on games such as Undertale by gamifying the process of getting a desired ending with fixed characters, and (it was planned) to iterate on Reigns by adding another element into the decisions - the alter ego of birdman which would influence choices to promopt the self-indulgence.
+
+### Gameplay
+
+The game uses irrKlang to give feedback to the player via sound and to provide a relaxing atmosphere. There are multiple endings to achieve, these are represented by the different credits sections that are shown after answering all of the answers. Situation cards are random to help towards replayability.
+
+#### Links
+[Birdman Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/BirdmanPostMortem)
+
+#### Download Link
+Coming soon! After I'm allowed to post it.
