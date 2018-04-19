@@ -22,7 +22,7 @@ published: true
 
 After watching the movie Birdman in class and having the holiday to think of a game concept to present to the class before developing it with a team, the film gave a strong narrative which could translate well into a story-based game. 
 
-The concept originated from the themes such as Undertale (with their credits scene and narrative focus) and the Reigns.
+The concept originated from the themes such as Undertale (with their credits scene and narrative focus) and Reigns.
 
 ### Iteration
 
