@@ -30,3 +30,9 @@ In a method to combine the flow of rhythm games and the intense visual dextarity
 #### Gameplay
 
 The game allows input of player name, and stores the name and score achieved in a file which provides a competitive element to the game as well as replayability due to its challenging nature. The sine waves of hazards give the gameplay an interesting element visually as well as being fun to navigate through.
+
+#### Links
+[Endless Space Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/EndlessRunner_PostMortem)
+
+#### Download Link
+Coming soon! After I'm allowed to post it.

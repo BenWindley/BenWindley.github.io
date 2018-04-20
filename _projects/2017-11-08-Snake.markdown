@@ -35,7 +35,7 @@ My planned iteration was to draw off of games such as Rogue and Caves of Qud in 
 The game has a functioning menu with options that changes the mechanics' severity, these options directly influence the highscore which allows the player to creater their own learning curve that can reflect ability though the highscore at the end.
 
 #### Links
-[Snake Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/SnakePostMortem)
+[Snake Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/Snake_PostMortem)
 
 #### Download Link
 Coming soon! After I'm allowed to post it.

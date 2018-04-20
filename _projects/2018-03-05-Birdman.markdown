@@ -33,7 +33,7 @@ My birdman game iterated on games such as Undertale by gamifying the process of 
 The game uses irrKlang to give feedback to the player via sound and to provide a relaxing atmosphere. There are multiple endings to achieve, these are represented by the different credits sections that are shown after answering all of the answers. Situation cards are random to help towards replayability.
 
 #### Links
-[Birdman Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/BirdmanPostMortem)
+[Birdman Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/Birdman_PostMortem)
 
 #### Download Link
 Coming soon! After I'm allowed to post it.
