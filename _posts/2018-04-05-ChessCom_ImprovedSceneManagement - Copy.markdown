@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
 - Blog
 - Low-Level Programming
+- Chess-Com
 img: FrameworkLayout.jpg
 thumb: ChessCom_Thumb.png
 ---

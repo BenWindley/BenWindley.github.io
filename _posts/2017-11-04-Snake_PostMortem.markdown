@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
   - Blog
   - Low-Level Programming
+  - Snake
 img: snake-1200x627.png
 thumb: Snake_Thumb.png
 ---

@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
   - Blog
   - Low-Level Programming
+  - Endless Runner
 img: Endless Runner(2).PNG
 thumb: Endless_Runner_Thumb.png
 ---

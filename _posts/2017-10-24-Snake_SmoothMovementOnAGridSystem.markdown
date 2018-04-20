@@ -7,6 +7,7 @@ thumb: Snake_Thumb.png
 categories: 
 - Blog
 - Low-Level Programming
+- Snake
                 
 img: SnakeBoard.png
 thumb: Snake_Thumb.png

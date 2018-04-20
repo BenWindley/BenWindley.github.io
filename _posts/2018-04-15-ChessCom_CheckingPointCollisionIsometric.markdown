@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
 - Blog
 - Low-Level Programming
+- Chess-Com
 img: Isometric.PNG
 thumb: ChessCom_Thumb.png
 ---

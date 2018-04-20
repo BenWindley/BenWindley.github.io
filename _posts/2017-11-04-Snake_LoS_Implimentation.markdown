@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
   - Blog
   - Low-Level Programming
+  - Snake
 img: Caves-of-Qud-Mobile.jpg
 thumb: Snake_Thumb.png
 ---
