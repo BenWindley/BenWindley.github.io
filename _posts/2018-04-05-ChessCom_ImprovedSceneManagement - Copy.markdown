@@ -7,7 +7,7 @@ categories:
 - Blog
 - Low-Level Programming
 img: FrameworkLayout.jpg
-thumb: c_thumb.jpg
+thumb: ChessCom_Thumb.png
 ---
 
 ## Previous Model

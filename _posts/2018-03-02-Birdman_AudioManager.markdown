@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
 img: birdman.png
-thumb: birdman.png
+thumb: Birdman_Thumb.png
 ---
 ## Audio Manager
 

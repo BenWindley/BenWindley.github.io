@@ -7,7 +7,7 @@ categories:
 - Blog
 - Low-Level Programming
 img: Isometric.PNG
-thumb: c_thumb.jpg
+thumb: ChessCom_Thumb.png
 ---
 
 ### Theory

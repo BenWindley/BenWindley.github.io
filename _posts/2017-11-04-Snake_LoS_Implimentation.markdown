@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
 img: Caves-of-Qud-Mobile.jpg
-thumb: Caves-of-Qud-Mobile.jpg
+thumb: Snake_Thumb.png
 ---
 
 #### Planning

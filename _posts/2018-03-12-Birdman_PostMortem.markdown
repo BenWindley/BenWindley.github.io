@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
 img: birdman.png
-thumb: birdman.png
+thumb: Birdman_Thumb.png
 ---
 
 #### What went well?

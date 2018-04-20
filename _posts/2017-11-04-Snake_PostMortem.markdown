@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
 img: snake-1200x627.png
-thumb: snake-1200x627.png
+thumb: Snake_Thumb.png
 ---
 
 #### What went well?

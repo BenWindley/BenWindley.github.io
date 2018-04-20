@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
 img: Endless Runner(2).PNG
-thumb: Endless Runner(2).PNG
+thumb: Endless_Runner_Thumb.png
 ---
 
 ### Desired Usage
