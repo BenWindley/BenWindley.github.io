@@ -5,14 +5,12 @@ date:   2017-12-08
 author: Ben Windley
 categories:
 - Project
-thumb: thumb02.jpg
-img: portfolio_05.jpg
+thumb: Endless_Runner_Thumb.png
 carousel:
 - endless_runner.PNG
 - endless_runner_1.PNG
 - endless_runner_2.PNG
-tagged: Low Level Programming, Endless Runner
-engine: ASGE
+tagged: Low Level Programming, Endless Space, ASGE
 published: true
 ---
 
@@ -31,7 +29,7 @@ In a method to combine the flow of rhythm games and the intense visual dextarity
 
 The game allows input of player name, and stores the name and score achieved in a file which provides a competitive element to the game as well as replayability due to its challenging nature. The sine waves of hazards give the gameplay an interesting element visually as well as being fun to navigate through.
 
-#### Links
+#### Link(s)
 [Endless Space Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/EndlessRunner_PostMortem)
 
 #### Download Link

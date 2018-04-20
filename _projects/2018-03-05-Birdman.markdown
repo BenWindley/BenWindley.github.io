@@ -5,16 +5,14 @@ date:   2018-03-05
 author: Ben Windley
 categories:
 - Project
-thumb: thumb02.jpg
-img: portfolio_05.jpg
+thumb: Birdman_Thumb.png
 carousel:
 - birdman.PNG
 - birdman_1.PNG
 - birdman_2.PNG
 - birdman_3.PNG
 - birdman_4.PNG
-tagged: Low Level Programming, Birdman
-engine: ASGE
+tagged: Low Level Programming, Birdman, ASGE
 published: true
 ---
 
@@ -32,7 +30,7 @@ My birdman game iterated on games such as Undertale by gamifying the process of 
 
 The game uses irrKlang to give feedback to the player via sound and to provide a relaxing atmosphere. There are multiple endings to achieve, these are represented by the different credits sections that are shown after answering all of the answers. Situation cards are random to help towards replayability.
 
-#### Links
+#### Link(s)
 [Birdman Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/Birdman_PostMortem)
 
 #### Download Link
