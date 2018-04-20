@@ -6,7 +6,7 @@ author: Ben Windley
 
 categories: 
 - Blog
-- Low Level Programming
+- Low-Level Programming
                 
 img: SnakeBoard.png
 ---
