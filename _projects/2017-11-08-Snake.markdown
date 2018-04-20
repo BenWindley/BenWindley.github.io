@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
 - Project
 thumb: Snake_Thumb.png
+img: Snake_Thumb.png
 carousel:
 - snake_1.PNG
 - snake_2.PNG

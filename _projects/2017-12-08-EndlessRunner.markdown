@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
 - Project
 thumb: Endless_Runner_Thumb.png
+img: Endless_Runner_Thumb.png
 carousel:
 - endless_runner.PNG
 - endless_runner_1.PNG

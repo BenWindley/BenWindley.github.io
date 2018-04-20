@@ -6,6 +6,7 @@ author: Ben Windley
 categories:
 - Project
 thumb: Birdman_Thumb.png
+img: Birdman_Thumb.png
 carousel:
 - birdman.PNG
 - birdman_1.PNG
