@@ -9,7 +9,7 @@ categories:
 img: Endless Runner(2).PNG
 thumb: Endless_Runner_Thumb.png
 ---
-
+<!--more-->
 #### What went well?
 - Due to the hindsight into ASGE's workings it was far easier to create a framework.
 - The scene manager that I created early on, with the focus of scalability, set the modular foundations for the Game, Menu and Name Input Scenes.

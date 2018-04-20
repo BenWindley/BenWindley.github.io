@@ -9,7 +9,7 @@ categories:
 img: FrameworkLayout.jpg
 thumb: ChessCom_Thumb.png
 ---
-
+<!--more-->
 ## Previous Model
 
 The functionality of the previous scene manager consisted of a switch statement that directed the game to update the current scene. The current scene was stored in a polymorphic scene class, the polymorphic traits were update, init, and render, all of which form the foundations of the scene manager.

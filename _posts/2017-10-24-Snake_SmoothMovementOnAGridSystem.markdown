@@ -11,7 +11,7 @@ categories:
 img: SnakeBoard.png
 thumb: Snake_Thumb.png
 ---
-
+<!--more-->
 ### Theory
 
 By checking for intent to change direction each update the class can store the next planned move for the snake. So by updating each tick for movement by a few pixels each time (divisible by the tile size) the snake can check for a change in direction when the next tile is lined up.

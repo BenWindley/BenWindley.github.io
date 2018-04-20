@@ -9,7 +9,7 @@ categories:
 img: InitialDesign.jpg
 thumb: ChessCom_Thumb.png
 ---
-
+<!--more-->
 ## Concept Analysis
 
 The initial idea for Chess-com centered around what is possible in via networking:

@@ -9,7 +9,7 @@ categories:
 img: Endless Runner(2).PNG
 thumb: Endless_Runner_Thumb.png
 ---
-
+<!--more-->
 ### Desired Usage
 - Ability to have one active scene and interchange it with different scene classes.
 - Make code cleaner and isolate code that doesn't require dependancy on each other.

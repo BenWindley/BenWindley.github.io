@@ -9,8 +9,8 @@ categories:
 img: birdman.png
 thumb: Birdman_Thumb.png
 ---
+<!--more-->
 ## Audio Manager
-
 ### Introduction to irrKlang
 irrKlang is an audio library for c++ that could be tagged onto ASGE to provide audio.
 

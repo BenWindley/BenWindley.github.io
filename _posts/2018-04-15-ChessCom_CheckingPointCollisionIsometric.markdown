@@ -9,7 +9,7 @@ categories:
 img: Isometric.PNG
 thumb: ChessCom_Thumb.png
 ---
-
+<!--more-->
 ### Theory
 
 In mathematics, to check if a point is within the constraints of any area, you can check the lines that create the collider and check if the point is above the top colliders, and below the bottom colliders. 

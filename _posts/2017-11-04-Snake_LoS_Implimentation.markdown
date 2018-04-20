@@ -9,7 +9,7 @@ categories:
 img: Caves-of-Qud-Mobile.jpg
 thumb: Snake_Thumb.png
 ---
-
+<!--more-->
 #### Planning
 My initial thought was to draw a line between each grid space and the head position of the snake, therefore <b>Bresenham's algorithm</b> of the generation of pixel-based lines helped this.
 

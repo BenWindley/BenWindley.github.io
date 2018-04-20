@@ -9,7 +9,7 @@ categories:
 img: snake-1200x627.png
 thumb: Snake_Thumb.png
 ---
-
+<!--more-->
 #### What went well?
 - Line of sight worked well with snake, exemplifying the sense of claustrophobia.
 - The changing snake corner sprites added a nice feel of fluidity.

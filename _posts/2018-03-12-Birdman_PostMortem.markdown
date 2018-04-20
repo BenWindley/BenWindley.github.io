@@ -9,7 +9,7 @@ categories:
 img: birdman.png
 thumb: Birdman_Thumb.png
 ---
-
+<!--more-->
 #### What went well?
 - The art and music gave a polished feel to the game.
 - File reading allowed for easy interaction and easy changes without hard-coding.
