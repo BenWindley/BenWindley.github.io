@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Animations to Add Magic"
-date: 2018-04-15
+date: 2018-04-20
 author: Ben Windley
 categories:
 - Blog
@@ -15,7 +15,7 @@ thumb: ChessCom_Thumb.png
 ### Simple Lerp (Linear Interpolation) Animation
 
 <p style="text-align: center">
-<img src="https://gyazo.com/e6adca221b97758cfb50328c11be53eb.gif" width="400" height="400" />
+<img src="https://gyazo.com/e6adca221b97758cfb50328c11be53eb.mp3" width="400" height="400" />
 </p>
 
 When adding animations to things in code, a lerp animation is the easiest of them all, by taking two points and calculating the average point of the two you can easily add a little magic to your game. All you need to remember is that this needs to be isolated to game-side mechanics otherwise you can expect <b>undefined behaviour.</b>
