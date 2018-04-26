@@ -7,14 +7,12 @@ categories:
 - Project
 thumb: Orrery_Thumb.png
 img: Orrery_Thumb.png
-
 carousel:
 - Orrery_1.png
 - Orrery_2.png
 - Orrery_3.png
 - Orrery_4.png
 - Orrery_5.png
-
 tagged: Maya 2016, 3D Modelling
 published: true
 ---
