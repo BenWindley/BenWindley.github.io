@@ -49,10 +49,9 @@ In the future, along with my teammate, I'd like to develop Chess-Com further to 
 <img src="https://i.gyazo.com/94aa6438e56639140b8ec46d7c65cd3b.gif" width="500" height="450" />
 </p>
 
-{% include youtubePlayer.html id=page."XziwG9ENikM" %}
-
 #### Blog Links
 [Chess-Com Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/chess-com/ChessCom_PostMortem)
+[Chees-Com Gameplay Video](https://www.youtube.com/watch?v=XziwG9ENikM)
 
 #### Download Link
 Coming soon! After I'm allowed to post it.
