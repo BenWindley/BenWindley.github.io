@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "Orrery"
+date:   2016-11-19
+author: Ben Windley
+categories:
+- Project
+thumb: Orrery_Thumb.png
+img: Orrery_Thumb.png
+
+carousel:
+- Orrery_1.png
+- Orrery_2.png
+- Orrery_3.png
+- Orrery_4.png
+- Orrery_5.png
+
+tagged: Maya 2016, 3D Modelling
+published: true
+---
+
+### Initial Concept
+
+The task was to create a mechanical orrery and an automaton. I chose high contrasting colours to add focus onto the centerpiece - the orrery, to make it an even greater focal point I turned the sun into a radient lightbulb. I was inspired by the contrast of gold and obsidian along with the theming of a greek planetarium. 
+
+### Skills used
+
+The required skills to model the orrery were:
+
+- Familiarity with Maya 2016
+- Manipulation of faces
+- Use of beveling on edges and faces
+- Amending faces
+- Animation
+- Applying materials with normal maps and textures
+- Creating multiple material types (Phong, Lambert, Blinn) and their relevant uses
