@@ -31,3 +31,7 @@ void OpacityOverTime::update(float delta_time)
 }
 ```
 This way opacity will move towards end_opacity over the sprite's lifetime! However this is very limited in how it models change over time. In the future I might make a model for exponential decay, however for now I want to focus on adding more components.
+
+<p style="text-align: center">
+<img src="https://gyazo.com/78fb8db784bb95f96d4c88d4354ed4da.gif" width="400" height="400" />
+</p>
