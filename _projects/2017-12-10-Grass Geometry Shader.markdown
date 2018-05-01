@@ -8,11 +8,11 @@ categories:
 thumb: Grass_Thumb.png
 img: Grass_Thumb.png
 carousel:
-- Grass.png
-- Grass_1.png
-- Grass_2.png
-- Grass_3.png
-- Grass_4.png
+- Grass.PNG
+- Grass_1.PNG
+- Grass_2.PNG
+- Grass_3.PNG
+- Grass_4.PNG
 tagged: Unity, ShaderLab, OpenGL
 published: true
 ---
