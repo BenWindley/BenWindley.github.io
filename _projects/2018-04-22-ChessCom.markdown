@@ -46,12 +46,13 @@ In team selection the player can choose up to 4 pieces and a maximum of 12 point
 In the future, along with my teammate, I'd like to develop Chess-Com further to allow for online multiplayer as opposed to the current which is LAN support, as well as unlocks for victories which will allow the player to reskin their and the opponent's pieces in different textures. 
 
 <p style="text-align: center">
-<img src="https://i.gyazo.com/94aa6438e56639140b8ec46d7c65cd3b.gif" width="500" height="450" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 #### Blog Links
 [Chess-Com Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/chess-com/ChessCom_PostMortem)
-[Chees-Com Gameplay Video](https://www.youtube.com/watch?v=XziwG9ENikM)
+
+[Chees-Com Gameplay Video](https://www.youtube.com/watch?v=ew7uesuGA7E)
 
 #### Download Link
 Coming soon! After I'm allowed to post it.
