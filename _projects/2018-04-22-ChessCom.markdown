@@ -47,8 +47,8 @@ In team selection the player can choose up to 4 pieces and a maximum of 12 point
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
-#### Blog Links
+### Blog Links
 [Chess-Com Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/chess-com/ChessCom_PostMortem)
 
-#### Download Link
+### Download Link
 Coming soon! After I'm allowed to post it.
