@@ -12,7 +12,8 @@ carousel:
 - snake_2.PNG
 - snake_3.PNG
 - snake_4.PNG
-tagged: Low Level Programming, Snake, ASGE
+- snake_5.PNG
+tagged: Low Level Programming, Snake, ASGE, C++
 published: true
 ---
 
@@ -32,6 +33,12 @@ My planned iteration was to draw off of games such as Rogue and Caves of Qud in 
 ### Gameplay
 
 The game has a functioning menu with options that changes the mechanics' severity, these options directly influence the highscore which allows the player to creater their own learning curve that can reflect ability though the highscore at the end.
+
+### Footage
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2BFK_tHHvs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
 
 #### Link(s)
 [Snake Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/snake/Snake_PostMortem)

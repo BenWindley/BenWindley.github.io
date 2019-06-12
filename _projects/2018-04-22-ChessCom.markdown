@@ -41,9 +41,7 @@ In Chess-Com you must think up to 3 moves ahead of the opponent, as this is how 
 
 In team selection the player can choose up to 4 pieces and a maximum of 12 points total, through the use of the widely accepted values for pieces in chess, Chess-Com has adapted these values to rate the King as -2 points to take on your team as this allows you to take an even greater combination of pieces at the cost of a disadvantage (in the form of the king) that will cause an instant game over.
 
-### Future
-
-In the future, along with my teammate, I'd like to develop Chess-Com further to allow for online multiplayer as opposed to the current which is LAN support, as well as unlocks for victories which will allow the player to reskin their and the opponent's pieces in different textures. 
+### Footage
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -51,8 +49,6 @@ In the future, along with my teammate, I'd like to develop Chess-Com further to 
 
 #### Blog Links
 [Chess-Com Post-Mortem here](https://benwindley.github.io/blog/low-level%20programming/chess-com/ChessCom_PostMortem)
-
-[Chees-Com Gameplay Video](https://www.youtube.com/watch?v=ew7uesuGA7E)
 
 #### Download Link
 Coming soon! After I'm allowed to post it.
