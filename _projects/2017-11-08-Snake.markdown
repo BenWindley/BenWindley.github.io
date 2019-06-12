@@ -12,7 +12,7 @@ carousel:
 - snake_2.PNG
 - snake_3.PNG
 - snake_4.PNG
-- snake_5.PNG
+- Snake_5.PNG
 tagged: Low Level Programming, Snake, ASGE, C++
 published: true
 ---
