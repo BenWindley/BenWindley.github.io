@@ -58,6 +58,8 @@ members:
         url: mailto:ben.windley@yahoo.co.uk
       - title: twitter
         url: http://twitter.com/BenWindley
+      - title: linkedin
+        url: https://www.linkedin.com/in/ben-windley
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: Learning, Drawing, Programming
