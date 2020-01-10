@@ -4,7 +4,7 @@
 title: Ben Windley
 description: "Learning, Drawing, Programming"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/portfolio" #important: start with /
+baseurl: "/" #important: start with /
 url: "https://BenWindley.github.io/"
 
 # Build settings
