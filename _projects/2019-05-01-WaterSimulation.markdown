@@ -13,7 +13,6 @@ carousel:
 - Water Simulation (3).png
 - Water Simulation (4).png
 - Water Simulation (5).png
-- Water Simulation (6).png
 tagged: Unity, Shaders
 published: true
 ---
