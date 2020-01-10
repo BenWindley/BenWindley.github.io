@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Title"
-date:   yyyy-mm-dd
+date:   2019-05-01
 author: Ben Windley
 categories:
 - Project
