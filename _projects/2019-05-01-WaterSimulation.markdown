@@ -8,12 +8,12 @@ categories:
 thumb: Water Simulation.png
 img: Water Simulation.png
 carousel:
-- Water Simulation (1).PNG
-- Water Simulation (2).PNG
-- Water Simulation (3).PNG
-- Water Simulation (4).PNG
-- Water Simulation (5).PNG
-- Water Simulation (6).PNG
+- Water Simulation (1).png
+- Water Simulation (2).png
+- Water Simulation (3).png
+- Water Simulation (4).png
+- Water Simulation (5).png
+- Water Simulation (6).png
 tagged: Unity, Shaders
 published: true
 ---

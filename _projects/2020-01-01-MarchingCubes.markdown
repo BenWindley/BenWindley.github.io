@@ -8,11 +8,11 @@ categories:
 thumb: Marching Cubes.png
 img: Marching Cubes.png
 carousel:
-- Marching Cubes (1).PNG
-- Marching Cubes (2).PNG
-- Marching Cubes (3).PNG
-- Marching Cubes (4).PNG
-- Marching Cubes (5).PNG
+- Marching Cubes (1).png
+- Marching Cubes (2).png
+- Marching Cubes (3).png
+- Marching Cubes (4).png
+- Marching Cubes (5).png
 tagged: Unity, Shaders
 published: true
 ---

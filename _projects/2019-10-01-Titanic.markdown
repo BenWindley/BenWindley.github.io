@@ -8,11 +8,11 @@ categories:
 thumb: Titanic.png
 img: Titanic.png
 carousel:
-- Titanic (1).PNG
-- Titanic (2).PNG
-- Titanic (3).PNG
-- Titanic (4).PNG
-- Titanic (5).PNG
+- Titanic (1).png
+- Titanic (2).png
+- Titanic (3).png
+- Titanic (4).png
+- Titanic (5).png
 tagged: Unity, Shaders, Maya
 published: true
 ---

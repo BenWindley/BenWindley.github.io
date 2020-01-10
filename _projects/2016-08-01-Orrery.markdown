@@ -8,11 +8,11 @@ categories:
 thumb: Orrery.png
 img: Orrery.png
 carousel:
-- Orrery (1).PNG
-- Orrery (2).PNG
-- Orrery (3).PNG
-- Orrery (4).PNG
-- Orrery (5).PNG
+- Orrery (1).png
+- Orrery (2).png
+- Orrery (3).png
+- Orrery (4).png
+- Orrery (5).png
 tagged: Maya 2016, 3D Modelling
 published: true
 ---

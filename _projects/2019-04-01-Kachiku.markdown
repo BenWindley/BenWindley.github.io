@@ -8,12 +8,12 @@ categories:
 thumb: Kachiku.png
 img: Kachiku.png
 carousel:
-- Kachiku (1).PNG
-- Kachiku (2).PNG
-- Kachiku (3).PNG
-- Kachiku (4).PNG
-- Kachiku (5).PNG
-- Kachiku (6).PNG
+- Kachiku (1).png
+- Kachiku (2).png
+- Kachiku (3).png
+- Kachiku (4).png
+- Kachiku (5).png
+- Kachiku (6).png
 tagged: Unity, Shaders
 published: true
 ---

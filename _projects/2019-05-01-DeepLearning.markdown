@@ -8,16 +8,16 @@ categories:
 thumb: Deep Learning.png
 img: Deep Learning.png
 carousel:
-- Deep Learning (1).PNG
-- Deep Learning (2).PNG
-- Deep Learning (3).PNG
-- Deep Learning (4).PNG
-- Deep Learning (5).PNG
-- Deep Learning (6).PNG
-- Deep Learning (7).PNG
-- Deep Learning (8).PNG
-- Deep Learning (9).PNG
-- Deep Learning (10).PNG
+- Deep Learning (1).png
+- Deep Learning (2).png
+- Deep Learning (3).png
+- Deep Learning (4).png
+- Deep Learning (5).png
+- Deep Learning (6).png
+- Deep Learning (7).png
+- Deep Learning (8).png
+- Deep Learning (9).png
+- Deep Learning (10).png
 tagged: Python, Tensorflow
 published: true
 ---

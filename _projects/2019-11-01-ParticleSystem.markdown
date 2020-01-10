@@ -8,14 +8,14 @@ categories:
 thumb: Particle System.png
 img: Particle System.png
 carousel:
-- Particle System (1).PNG
-- Particle System (2).PNG
-- Particle System (3).PNG
-- Particle System (4).PNG
-- Particle System (5).PNG
-- Particle System (6).PNG
-- Particle System (7).PNG
-- Particle System (8).PNG
+- Particle System (1).png
+- Particle System (2).png
+- Particle System (3).png
+- Particle System (4).png
+- Particle System (5).png
+- Particle System (6).png
+- Particle System (7).png
+- Particle System (8).png
 tagged: Unity, Shaders
 published: true
 ---

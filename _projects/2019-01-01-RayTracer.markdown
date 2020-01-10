@@ -8,14 +8,14 @@ categories:
 thumb: Ray Tracer.png
 img: Ray Tracer.png
 carousel:
-- Ray Tracer (1).PNG
-- Ray Tracer (2).PNG
-- Ray Tracer (3).PNG
-- Ray Tracer (4).PNG
-- Ray Tracer (5).PNG
-- Ray Tracer (6).PNG
-- Ray Tracer (7).PNG
-- Ray Tracer (8).PNG
+- Ray Tracer (1).png
+- Ray Tracer (2).png
+- Ray Tracer (3).png
+- Ray Tracer (4).png
+- Ray Tracer (5).png
+- Ray Tracer (6).png
+- Ray Tracer (7).png
+- Ray Tracer (8).png
 tagged: SFML, C++
 published: true
 ---
