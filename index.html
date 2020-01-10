@@ -9,7 +9,7 @@ permalink: /
          <div class="col-lg-8 col-lg-offset-2">
             <h4>Blog Posts</h4>
             <div class="hline"></div>
-            {% for post in site.posts limit:15 %}
+            {% for post in site.posts limit:5 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
             {% endfor %}
              <div class="hline"></div> 
@@ -17,6 +17,6 @@ permalink: /
     </div><! --/row -->
 </div><! --/container -->
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+{% include portfolio.html title="LATEST WORKS" limit=20 %}
 
 
