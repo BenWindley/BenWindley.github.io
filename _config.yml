@@ -4,7 +4,7 @@
 title: Ben Windley
 description: "Learning, Drawing, Programming"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+baseurl: "/portfolio" #important: start with /
 url: "https://BenWindley.github.io/"
 
 # Build settings
@@ -50,7 +50,7 @@ email: ben.windley@yahoo.co.uk
 # Members information. Shown on About page.
 members:
   - name: Ben Windley
-    position: Student
+    position: Masters Student
     text: I'm learning programming and game design! 
     img: watermelon.png
     social:
