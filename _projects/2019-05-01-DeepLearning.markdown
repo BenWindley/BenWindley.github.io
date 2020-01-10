@@ -1,19 +1,24 @@
 ---
 layout: project
-title:  "Title"
+title:  "Deep Learning"
 date:   2019-05-01
 author: Ben Windley
 categories:
 - Project
-thumb: ThumbnailName.png
-img: ThumbnailName.png
+thumb: Deep Learning.png
+img: Deep Learning.png
 carousel:
-- Template (1).PNG
-- Template (2).PNG
-- Template (3).PNG
-- Template (4).PNG
-- Template (5).PNG
-tagged: Unity, Unreal, DirectX, Shaders
+- Deep Learning (1).PNG
+- Deep Learning (2).PNG
+- Deep Learning (3).PNG
+- Deep Learning (4).PNG
+- Deep Learning (5).PNG
+- Deep Learning (6).PNG
+- Deep Learning (7).PNG
+- Deep Learning (8).PNG
+- Deep Learning (9).PNG
+- Deep Learning (10).PNG
+tagged: Python, Tensorflow
 published: true
 ---
 
@@ -32,5 +37,5 @@ published: true
 ### Footage
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Id_QHFOpT5Y?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>

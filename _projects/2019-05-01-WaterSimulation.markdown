@@ -14,7 +14,7 @@ carousel:
 - Water Simulation (4).PNG
 - Water Simulation (5).PNG
 - Water Simulation (6).PNG
-tagged: Unity, Unreal, DirectX, Shaders
+tagged: Unity, Shaders
 published: true
 ---
 

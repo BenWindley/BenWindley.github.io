@@ -14,7 +14,7 @@ carousel:
 - Sibling Suckerpunch (4).PNG
 - Sibling Suckerpunch (5).PNG
 - Sibling Suckerpunch (6).PNG
-tagged: Unity, Unreal, DirectX, Shaders
+tagged: Unity, Pixel Art
 published: true
 ---
 

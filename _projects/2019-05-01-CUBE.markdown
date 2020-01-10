@@ -8,12 +8,11 @@ categories:
 thumb: CUBE.png
 img: CUBE.png
 carousel:
-- CUBE (1).PNG
-- CUBE (2).PNG
+- CUBE (1).png
+- CUBE (2).png
 - CUBE (3).PNG
-- CUBE (4).PNG
-- CUBE (5).PNG
-tagged: Unity, Unreal, DirectX, Shaders
+- CUBE (4).png
+tagged: Unity, Shaders
 published: true
 ---
 

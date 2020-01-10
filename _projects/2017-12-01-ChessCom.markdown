@@ -17,7 +17,7 @@ carousel:
 - Chess Com (7).PNG
 - Chess Com (8).PNG
 - Chess Com (9).PNG
-tagged: ASGE, C++, Pixel Art
+tagged: ASGE, C++, CNet, Pixel Art
 published: true
 ---
 
@@ -44,5 +44,5 @@ In team selection the player can choose up to 4 pieces and a maximum of 12 point
 ### Footage
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XziwG9ENikM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>

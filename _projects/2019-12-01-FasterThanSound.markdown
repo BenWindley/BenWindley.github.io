@@ -13,7 +13,7 @@ carousel:
 - Faster Than Sound (3).PNG
 - Faster Than Sound (4).PNG
 - Faster Than Sound (5).PNG
-tagged: Unity, Unreal, DirectX, Shaders
+tagged: Unity, Shaders
 published: true
 ---
 
