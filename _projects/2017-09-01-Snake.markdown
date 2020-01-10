@@ -1,0 +1,41 @@
+---
+layout: project
+title:  "Snake"
+date:   2017-09-01
+author: Ben Windley
+categories:
+- Project
+thumb: Snake.png
+img: Snake.png
+carousel:
+- Snake (1).PNG
+- Snake (2).PNG
+- Snake (3).PNG
+- Snake (4).PNG
+- Snake (5).PNG
+tagged: ASGE, C++, Pixel Art
+published: true
+---
+
+### Initial Concept
+
+Being presented with the theme "Snake" and the the task of iterating on the concept. 
+Several main mechanics and themes of snake were given to us:
+- Perpetual
+- Risk
+- Reward
+- Claustrophobia
+
+### Iteration
+
+My planned iteration was to draw off of games such as Rogue and Caves of Qud in their line of sight, therefore after implimenting the basic snake game I used bresenham's line algorithm to exemplify the feeling of claustrophobia, it also prolongs gameplay as the player must hunt down the apples to grow longer. An additional mechanic I added to counter the problem of collecting apples on the edge of blocks and the borders of the map a safety feature can be turned on/off, this feature gives the player a number of ticks upon hitting a wall or a part of their body before losing.
+
+### Gameplay
+
+The game has a functioning menu with options that changes the mechanics' severity, these options directly influence the highscore which allows the player to creater their own learning curve that can reflect ability though the highscore at the end.
+
+### Footage
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>

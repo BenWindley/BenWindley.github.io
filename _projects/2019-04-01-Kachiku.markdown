@@ -1,0 +1,37 @@
+---
+layout: project
+title:  "Kachiku"
+date:   2019-04-01
+author: Ben Windley
+categories:
+- Project
+thumb: Kachiku.png
+img: Kachiku.png
+carousel:
+- Kachiku (1).PNG
+- Kachiku (2).PNG
+- Kachiku (3).PNG
+- Kachiku (4).PNG
+- Kachiku (5).PNG
+- Kachiku (6).PNG
+tagged: Unity, Shaders
+published: true
+---
+
+### Initial Concept
+
+
+
+### Iteration
+
+
+
+### Gameplay
+
+
+
+### Footage
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-jiE7ufEJ0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>

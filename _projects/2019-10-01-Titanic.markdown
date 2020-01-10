@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "Titanic"
+date:   2019-10-01
+author: Ben Windley
+categories:
+- Project
+thumb: Titanic.png
+img: Titanic.png
+carousel:
+- Titanic (1).PNG
+- Titanic (2).PNG
+- Titanic (3).PNG
+- Titanic (4).PNG
+- Titanic (5).PNG
+tagged: Unity, Shaders, Maya
+published: true
+---
+
+### Initial Concept
+
+
+
+### Iteration
+
+
+
+### Gameplay
+
+
+
+### Footage
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>

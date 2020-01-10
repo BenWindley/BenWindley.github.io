@@ -1,0 +1,48 @@
+---
+layout: project
+title:  "Chess Com"
+date:   2017-12-01
+author: Ben Windley
+categories:
+- Project
+thumb: Chess Com.png
+img: Chess Com.png
+carousel:
+- Chess Com (1).PNG
+- Chess Com (2).PNG
+- Chess Com (3).PNG
+- Chess Com (4).PNG
+- Chess Com (5).PNG
+- Chess Com (6).PNG
+- Chess Com (7).PNG
+- Chess Com (8).PNG
+- Chess Com (9).PNG
+tagged: ASGE, C++, Pixel Art
+published: true
+---
+
+### Initial Concept
+
+The goal of this game was to see what the capabilities of chess over two computers, firstly by taking inspiration for my Snake clone, and adapting it to chess to create a chess/x-com hybrid. 
+
+The primary advantage of networking that I could think of was to split information given to each player, through the choice of team by each player along with the fog of war that keeps the player on their toes.
+
+### Iteration
+
+Chess is a game that requires in depth thinking of multiple pieces that have their own unique purpose and use, to iterate on this idea is quite easy as many games already do so (such as Into the Breach) as Chess is one of the oldest and most popular grid-based strategy games. 
+
+X-Com is a game that has a very familiar feel to chess, you recieve a board of information, you plan a move, then you execute it. This macro loop forms the basis of any strategy game and rewards the player through the increased time spent in thought on a specific move. In Chess many times I've thought of a move, then moments after I've thought of an even greater one and this loop is what I've wanted to keep as a fundamental of the genre. 
+
+From X-Com the meta-loop often consists of strategising the optimum team for any enemy, and this applies very much to Chess-Com too, through the team selection where you can choose up to 4 pieces.
+
+### Gameplay
+
+In Chess-Com you must think up to 3 moves ahead of the opponent, as this is how many actions can be made. In the tutorial it explains that action points can be spent on movement, and such movement costs different amounts depending on how far the piece travels at a maxiumum of 2 action points. 
+
+In team selection the player can choose up to 4 pieces and a maximum of 12 points total, through the use of the widely accepted values for pieces in chess, Chess-Com has adapted these values to rate the King as -2 points to take on your team as this allows you to take an even greater combination of pieces at the cost of a disadvantage (in the form of the king) that will cause an instant game over.
+
+### Footage
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew7uesuGA7E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
