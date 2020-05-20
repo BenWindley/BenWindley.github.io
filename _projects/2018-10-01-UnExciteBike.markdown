@@ -25,15 +25,17 @@ published: true
 
 ### Initial Concept
 
+We were tasked to "demake" a popular modern game into a game that would suit an Atari generation game. We chose to demake Trials visually, of which in the team I worked on personally. 
 
+### Implementation
+I added several effects into the project:
 
-### Iteration
+- Pixelisation
+- CRT Effect
+- Grain
+- Vignette
 
-
-
-### Gameplay
-
-
+These were achieved through the use of post-processing shaders that I made for the camera.
 
 ### Footage
 

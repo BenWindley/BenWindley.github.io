@@ -18,15 +18,13 @@ published: true
 ---
 
 ### Initial Concept
-
+The task given was to create a DirectX 11 procedural generator that creates buildings.
 
 
 ### Iteration
-
-
-
-### Gameplay
-
+The first task required setting up a DirectX 11 project, which was quite difficult as the use of the DX Toolkit wasn't allowed, however it gave interesting insights into learning more about game engine pipelines.
+The second task defined the architecture of the procedural generation, I focused on allowing the user to create interesting building shapes. This then had the features of building styles, interiors, and model importing added after.
+The third task specified the purpose of the generator, for the exporting of these models as OBJ files to be used in game engines on modelling software. I later expanded this into OBJ importing as well to allow for the use of OBJ models in the procedural generation, preventing the majority of hard-coded prefabs from having to exist in the project.
 
 
 ### Footage

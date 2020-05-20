@@ -20,16 +20,19 @@ tagged: SFML, C++
 published: true
 ---
 
-### Initial Concept
+### Concept
+I was tasked to create a ray tracer to generate images including a Bounding Volume Hierachy (BVH) accelaration structure. The project was then split into the following features:
 
+- Sphere-Ray Intersection
+- Triangle-Ray Intersection
+- Ray Reflection
+- BVH Accelaration
+- Multi-Threaded
+- Texturing
 
+This was carried out through the use of SFML to draw individual pixels.
 
-### Iteration
-
-
-
-### Gameplay
-
+My favourite part of this project was the ability to see the accelaration structures drastically shortening the time per render. However, in the future I would like to add features such as refraction and global illumination.
 
 
 ### Footage
