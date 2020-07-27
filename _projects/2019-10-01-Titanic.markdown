@@ -17,17 +17,11 @@ tagged: Unity, Shaders, Maya
 published: true
 ---
 
-### Initial Concept
+### Concept
 
+This project was chosen to raise awareness of the victims of the Titanic tragedy. This project comprises of accessing and displaying the victims of the Titanic database, which then could be displayed in the models, surroundings, and ledger in the game.
 
-
-### Iteration
-
-
-
-### Gameplay
-
-
+My contribution to the project involved the game design as well as the modelling of the characters and environments, as well as the creation of the shaders.
 
 ### Footage
 
