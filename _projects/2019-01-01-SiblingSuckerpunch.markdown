@@ -22,7 +22,7 @@ published: true
 
 This was our submission for the 2019 Global Game Jam, in which we created a fun 2.5D brawler where you fight with your brother, each of them feature their own special move and taunt.
 
-We ended up winning the game jam with this submission by community vote and it was an incredible moment to create a game I'm proud of be well recieved. As this had been my 4th GGJ and roughly my 6th facilitated jam, our team had the focus of fun and a decent night's sleep (of which we had plenty of both).
+We ended up winning the game jam with this submission by community vote and it was an incredible moment to create a game I'm proud of be so well recieved. As this had been my 4th GGJ and roughly my 6th facilitated jam, our team had the focus of fun and a decent night's sleep (of which we had plenty of both).
 
 ### Footage
 
