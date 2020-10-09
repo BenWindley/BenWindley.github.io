@@ -17,17 +17,18 @@ tagged: Unity, Shaders
 published: true
 ---
 
-### Initial Concept
+### Concept
 
+This project featured the use of the IFFT and ray marching to create realistic water. 
 
+### Features
 
-### Iteration
-
-
-
-### Gameplay
-
-
+- Customisable visual properties.
+- Radial mesh design for natural LOD.
+- Compute shader utilisation to limit CPU usage.
+- IFFT with multiple spectrum choices for different wave styles.
+- Ray marching for advanced light interactions.
+- Fresnel reflections.
 
 ### Footage
 

@@ -17,17 +17,16 @@ tagged: Unity, Shaders
 published: true
 ---
 
-### Initial Concept
+### Concept
 
+This was a fun game jam to get used to using and implementing FMod into Unity, as a wider lesson into the use of audio APIs to enhance gameplay.
 
+In the game you're tagged with running for the void chasing, using Mirror's Edge inspired parkour to avoid falling to death.
 
-### Iteration
+I personally created the visual style of the game, along with all the visual effects, obstacle generation, and obstacles used.
 
-
-
-### Gameplay
-
-
+The obstacle generation used two weighted bags of pieces for the player to encounter, the first being the challenging obstacles, split into difficulty, and the second being connecting tracks to buffer between obstacles and the reset the player's momentum.
+As the player continues and beats sections of the track they start to encounter harder and harder obstacles.
 
 ### Footage
 

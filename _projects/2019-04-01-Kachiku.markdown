@@ -20,17 +20,11 @@ tagged: Unity, Shaders
 published: true
 ---
 
-### Initial Concept
+###  Concept
 
+This project had me work in an entire cohort of people, with 5 individual teams of 6 people involved, as one would expect this was a great learning opportunity to learn inter-team communication, as well as enjoy working on a compartmentalised feature of the project.
 
-
-### Iteration
-
-
-
-### Gameplay
-
-
+The features I worked on were the custom post-processing effects triggered in big events that saturated the display, added chromatic aberration, and vibrated the screen. As well as the making of art assets to be created on quick demand by team members.
 
 ### Footage
 

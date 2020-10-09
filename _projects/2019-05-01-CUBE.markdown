@@ -16,17 +16,9 @@ tagged: Unity, Shaders
 published: true
 ---
 
-### Initial Concept
+### Concept
 
-
-
-### Iteration
-
-
-
-### Gameplay
-
-
+This project had a heavy focus on level design as it required or team to create a trailer for a game-esque product. My role demanded the creation of a landscape as the opening sequence, as well as the creation of a desert battlefield. I used composition techniques to refine the design of the levels, and I used colour theory to diversify them to make them interesting.
 
 ### Footage
 

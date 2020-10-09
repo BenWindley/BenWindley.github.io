@@ -20,17 +20,14 @@ tagged: Unity, Shaders
 published: true
 ---
 
-### Initial Concept
+### Concept
 
+This was a fun exploration of the use of compute shaders to render millions of particles.
 
+### Features
 
-### Iteration
-
-
-
-### Gameplay
-
-
+- Huge numbers of particles
+- Sprite support via geometry shaders
 
 ### Footage
 
