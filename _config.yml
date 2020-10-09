@@ -41,6 +41,8 @@ collections:
 social:
   - title: twitter
     url: https://twitter.com/benwindley
+  - title: linkedin
+    url: https://www.linkedin.com/in/ben-windley
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: ben.windley@yahoo.co.uk
