@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "To Me To You"
+title:  "Vegetation Simulation"
 date:   2020-05-01
 author: Ben Windley
 categories:
