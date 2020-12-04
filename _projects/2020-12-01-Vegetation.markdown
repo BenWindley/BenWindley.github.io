@@ -8,6 +8,7 @@ categories:
 thumb: Vegetation.png
 img: Vegetation.png
 carousel:
+- Vegetation (6).PNG
 - Vegetation (1).PNG
 - Vegetation (2).PNG
 - Vegetation (3).PNG
