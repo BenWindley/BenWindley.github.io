@@ -2,7 +2,7 @@
 
 # Site settings
 title: Ben Windley
-description: "Learning, Drawing, Programming"
+description: ""
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://BenWindley.github.io/"
@@ -52,7 +52,7 @@ members:
   - name: Ben Windley
     position: Game Developer
     text: 
-    img: Bard.png
+    img: Bard_large.png
     social:
       - title: envelope #use for email address
         url: mailto:ben.windley@yahoo.co.uk
