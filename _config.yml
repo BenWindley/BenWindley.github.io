@@ -39,8 +39,6 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: twitter
-    url: https://twitter.com/benwindley
   - title: linkedin
     url: https://www.linkedin.com/in/ben-windley
 
@@ -52,16 +50,14 @@ email: ben.windley@yahoo.co.uk
 # Members information. Shown on About page.
 members:
   - name: Ben Windley
-    position: Masters Student
-    text: I'm learning programming and game design! 
+    position: Game Developer
+    text: 
     img: watermelon.png
     social:
       - title: envelope #use for email address
         url: mailto:ben.windley@yahoo.co.uk
-      - title: twitter
-        url: http://twitter.com/BenWindley
       - title: linkedin
         url: https://www.linkedin.com/in/ben-windley
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: Learning, Drawing, Programming
+about: 
