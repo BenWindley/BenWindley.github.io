@@ -17,7 +17,7 @@ carousel:
 - Kachiku (7).png
 - Kachiku (8).png
 tagged: Unity, Shaders
-published: true
+published: false
 ---
 
 ###  Concept

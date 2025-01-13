@@ -14,7 +14,7 @@ carousel:
 - Orrery (4).png
 - Orrery (5).png
 tagged: Maya 2016, 3D Modelling
-published: true
+published: false
 ---
 
 ### Initial Concept

@@ -19,7 +19,7 @@ carousel:
 - Deep Learning (9).png
 - Deep Learning (10).png
 tagged: Python, Tensorflow
-published: true
+published: false
 ---
 
 ### Concept
