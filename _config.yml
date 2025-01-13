@@ -18,13 +18,13 @@ excerpt_separator: <!--more--> #use this in posts to define how long the excerpt
 future: true
 
 colors:  #in hex code if not noted else
-  primary: "#7B8A51" #Top Bar 
+  primary: "#613053" #Top Bar 
   primary_rgb: "123,138,81" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#000000" #"#33004D"
-  link: "#7B8A51"
-  link_hover: "#7B8A51"
-  footer_heading: "#7B8A51"
-  footer_content: "#7B8A51"
+  link: "#613053"
+  link_hover: "#613053"
+  footer_heading: "#613053"
+  footer_content: "#613053"
 
 # Making projects separate from posts
 collections:
@@ -52,7 +52,7 @@ members:
   - name: Ben Windley
     position: Game Developer
     text: 
-    img: watermelon.png
+    img: Bard.png
     social:
       - title: envelope #use for email address
         url: mailto:ben.windley@yahoo.co.uk
