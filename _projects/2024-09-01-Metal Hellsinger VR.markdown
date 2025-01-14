@@ -31,6 +31,9 @@ Accessibility features were also a big focus, such that many systems had to be v
 - VR
 - Gameplay
 
+### Awards
+Game Awards Nominee
+
 ### Footage
 
 <p style="text-align: center">

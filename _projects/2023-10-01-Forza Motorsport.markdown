@@ -33,6 +33,10 @@ I created a system to estimate system capabilities to select recommended graphic
 - Steam
 - Accessibility
 
+### Awards
+Game Awards Winner
+D.I.C.E. Awards Winner
+
 ### Footage
 
 <p style="text-align: center">
