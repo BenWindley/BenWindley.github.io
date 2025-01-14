@@ -34,5 +34,5 @@ Accessibility features were also a big focus, such that many systems had to be v
 ### Footage
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1_QPShmBJUA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_QPShmBJUA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>

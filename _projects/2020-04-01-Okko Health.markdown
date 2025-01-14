@@ -30,5 +30,5 @@ The second time I joined the team I helped polish the app for release.
 ### Footage
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rfxDhGeEhzI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfxDhGeEhzI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
