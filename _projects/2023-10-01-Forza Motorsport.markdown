@@ -32,6 +32,7 @@ I created a system to estimate system capabilities to select recommended graphic
 - Proprietary Engine
 - Steam
 - Accessibility
+- Input System
 
 ### Awards
 Game Awards Winner
